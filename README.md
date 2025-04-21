@@ -1,1 +1,1 @@
-# Welcome to myluckytree_rn_fr - mobile frontend
+# Welcome to myluckytree_rn_fr - Mobile frontend
